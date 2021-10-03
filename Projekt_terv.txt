@@ -1,0 +1,12 @@
+Csoport tagjai: Szabó András, Szabó Bálint, Jónis Bálint
+Fejlesztési terv: Egy álláskereső alkalmazáson dolgozunk. Ingyenesen le lehet tölteni, viszont előfizetéssel előnyt szerezhet az álláshirdető. 2 felülete lenne, egy álláskereső, és egy külön az álláshirdetőnek.
+Álláskereső felület: a felhasználó egy szűrőrendszer segítségével tud keresni a munkák között. A terv szerint ki lehet választani, hogy milyen munkaterületen keres a felhasználó, be lehet állítani, hogy csak egy adott mennyiségű fizetéstől mutasson ajánlatokat, milyen messze lehet maximum a munkahely (ha remote work akkor értelemszerűen ki lehet választani külön opcióban). Fel lehet tölteni az önéletrajzot, amit csak az a álláshirdető lát ahova felhasználó jelentkezett.
+Álláshirdető felület: Állásokat lehet hirdetni, fel lehet tölteni index képet, és további képeket. Premium előfizetéssel akár az adott munkaterületet gyakran kereső felhasználóknak elküldheti emailben az álláshirdető munka ajánlatát a rendszer. Egy menüpontban megjelenik az álláshirdetőnek, hogy melyik felhasználó szeretne dolgozni náluk. Itt megjelennek a felhasználók elérhetőségei és az önéletrajzai. Meg lehet nyitni egy csevegést, ahol lehet kommunikálni az álláskeresővel.
+Egyéb funkciók: felhasználó/álláshirdetés jelentése.
+Programozói nyelv: Java, Fejlesztő eszköz: Eclipse IDE
+Használni tervezett eszközök, technikák: Github, objektumorientált progamozás
+Leendő produktumok (dokumentum), és létrejöttük ideje: Vizio.pdf 2021.10.09., SRS.pdf 2021.10.24., Kezikonyv.pdf 2021.10.24.,
+HaromMusketas_ANALxx.html 2021.11.12., HaromMusketas_RTERVxx.html 2021.11.13.
+Tesztelési követelmények: Minden funkciót áttekinteni.
+Bemutatás (demó) és szállítás módja, ideje: Youtube live, V4 Esport Festival 2021, Google Play/App Store, 2021. november 16.
+Információ források: https://candicejob.com
