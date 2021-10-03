@@ -1,0 +1,4 @@
+https://users.iit.uni-miskolc.hu/~mileff/szt/dokformat.html
+ez is majd html lesz
+az oldal felétől ott van leírv, hogy hogyan kell megcsinálni
+lényegében csak bele kell írni, hogy mit csináltunk épp a projekttel.
