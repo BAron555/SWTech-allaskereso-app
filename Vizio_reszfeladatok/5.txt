@@ -1,0 +1,22 @@
+5. A végtermék jellemzői, biztosított szolgáltatások
+
+Az álláskeresők szemszögéből
+
+Ezentúl a fiatalok nemcsak párt, hanem munkát is pillanatok alatt találhatnak, méghozzá olyan preferenciák alapján, amelyeket ők határoznak meg előre – legyen szó helyről, munkaóráról, szakmai területről, szükséges tapasztalat szintjétől vagy bérezésről.
+Appunk úttörő módon igyekszik segíteni a fiatalok munkaszerzését, ezért az állások keresése mellett a felhasználók önéletrajzot, online névjegykártyát, de akár egy saját weboldalt is létrehozhatnak a siker érdekében.
+Az oldal kiemelten szakmai, azaz főként informatikai, support, fejlesztő, tesztelő, műszaki, gazdasági és adminisztratív diákmunkák közvetítésére specializálódik, de ajánlatai között
+– az állandó lehetőségek mellett – projekt jellegű és otthonról végezhető, illetve főállású munkák is megtalálhatók lesznek.
+
+Olyan alkalmazást szeretnénk fejleszteni, amely a lehető leghatékonyabb módon használható.
+Az app elkészülne Androidra, iOS-ra és Windowsra is, használható mobilon, PC-n és tableten egyaránt, de weboldallal is rendelkezik.
+Csak egy gyors regisztráció és az adatlap kitöltése után a rendszer már dobálja is a preferenciáknak megfelelő állásokat, az álláskeresők pedig eldönthetik, hogy érdeklődnek vagy sem az adott ajánlat iránt.
+Elősorban IT-területre specializálódnánk, így jól ismerik a fiatalok igényeit, elvárásait az álláskeresést illetően.
+
+A hirdetők szemszögéből
+
+Állásokat lehet hirdetni, képeket feltölteni hozzá.
+Premium előfizetéssel akár az adott munkaterületet gyakran kereső felhasználóknak elküldheti emailben az álláshirdető munka ajánlatát a rendszer.
+Egy menüpontban megjelenik az álláshirdetőnek, hogy melyik felhasználó szeretne dolgozni náluk.
+Itt megjelennek a felhasználók elérhetőségei és az önéletrajzai, portfóliói. Illetve meg lehet nyitni egy csevegést, ahol közvetlenül lehet kommunikálni az álláskeresővel.
+
+A kamu hirdetéseket jelenteni is lesz lehetősége a felhasználóknak, (-a nem megfelelőek kiselejtezése végett-), illetve értékelést is írhatnak az adott hirdetésekkel kapcsolódóan.
