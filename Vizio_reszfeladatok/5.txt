@@ -8,7 +8,7 @@ Az oldal kiemelten szakmai, azaz főként informatikai, support, fejlesztő, tes
 – az állandó lehetőségek mellett – projekt jellegű és otthonról végezhető, illetve főállású munkák is megtalálhatók lesznek.
 
 Olyan alkalmazást szeretnénk fejleszteni, amely a lehető leghatékonyabb módon használható.
-Az app elkészülne Androidra, iOS-ra és Windowsra is, használható mobilon, PC-n és tableten egyaránt, de weboldallal is rendelkezik.
+A webalkalmazás optimizálva lesz Androidra, iOS-ra és Windowsra is, használható mobilon, PC-n és tableten egyaránt.
 Csak egy gyors regisztráció és az adatlap kitöltése után a rendszer már dobálja is a preferenciáknak megfelelő állásokat, az álláskeresők pedig eldönthetik, hogy érdeklődnek vagy sem az adott ajánlat iránt.
 Elősorban IT-területre specializálódnánk, így jól ismerik a fiatalok igényeit, elvárásait az álláskeresést illetően.
 
@@ -20,3 +20,4 @@ Egy menüpontban megjelenik az álláshirdetőnek, hogy melyik felhasználó sze
 Itt megjelennek a felhasználók elérhetőségei és az önéletrajzai, portfóliói. Illetve meg lehet nyitni egy csevegést, ahol közvetlenül lehet kommunikálni az álláskeresővel.
 
 A kamu hirdetéseket jelenteni is lesz lehetősége a felhasználóknak, (-a nem megfelelőek kiselejtezése végett-), illetve értékelést is írhatnak az adott hirdetésekkel kapcsolódóan.
+Több nyelven lenne elérhető, illetve lehetősége lenne a felhasználóknak hivatalos (hitelesített) dokumentumokat feltölteni, illetve ezeket a munkaadóknak ellenőrizni.
