@@ -1,0 +1,21 @@
+4.3 
+
+Feltételezzük, hogy a rendszer folyamatosan működik, hogy az alkalmazás mindig naprakész a felhasználók számára. 
+Szükséges lesz időközönként a karbantartási feladatok elvégzése, hogy a rendszer mindig naprakész legyen.
+Az alkalmazás felhasználóival szemben nincsenek megkötések, bármennyi felhasználó használhatja egyszerre az oldalt,
+hogy ez teljesülhessen időnként fel kell mérni a szerverek kihasználtságát és ha szükséges bővítéseket kell eszközölni.
+
+3.3
+
+Alkalmazásunk egy böngészõk szempontjából platformfüggetlen webes alkalmazás lesz.
+A legnépszerûbb böngészõkön való helyes megjelenítés egyik fő célunk, valamint telefonalkalmazásokat is szeretnénk készíteni a jövőben.
+Újabb platformok megjelenésével számolunk a jövõben és elérhetõvé tesszük azon is.
+
+Az átláthatóság és a könnyed tájékozódás az oldalon elengedhetetlen ahhoz, hogy az emberek minket válasszanak versenytársainkal szemben.
+A látogatók egyszerûen regisztrálhatnak az oldalon, ezzel felhasználóvá válnak(álláskereső vagy álláshirdetőként).
+A felhasználók más szemléletmódban látják az oldalt ha álláskeresőként lépnek be mintha álláshirdetőként (különbözõ megjelenítés).
+Az előfizetéssel rendelkező felhasználók korlátlanul használhatják az oldalt, míg az ingyenes felhasználóknak néhány kényelmi és egyéb funkcióról kell lemondaniuk.
+
+A felhasználók száma várhatóan növekedni fog, a baráti ajánlások, hirdetések  és közösségi hálós reklámok miatt.
+Egyidejûleg több látogató, és több felhasználó is használhatja az oldalt. 
+Ez elméletben függ a szerver leterheltségétõl, de gyakorlatban a szerverek kihasználtságát gyakran ellenőrizzük és nem engedjük hogy ez korlátozza a működést.
