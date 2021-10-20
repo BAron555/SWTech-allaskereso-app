@@ -1,0 +1,11 @@
+4.5 Installáció
+
+-Lenne egyrészt 1 letölthető, telepíthető android applikáció Google Playről, ehhez mobil eszközön szükséges elegendő (nem túl sok) tárhely.
+-Másrészt a szerver oldalhoz felhő alapú tárhelyet használnánk, ez szükség esetén bővíthető, illetve nincs szükség rendszergazdára, személyzetre.
+
+6. Korlátozások
+
+-Az alkalmazás mérete ne haladja meg egy átlagos mobilapplikáció méretét (kb. 200-300 Mb),
+túl nagy hardverigénye ismételten nem lenne, mivel kb csak egyszerű szöveges felület.
+-a Google Play Store követelményeinek való megfelelés.
+-dokumentumok védelmére és bizalmas felhasználói információk kezelési törvényeknek eleget kell tenni
