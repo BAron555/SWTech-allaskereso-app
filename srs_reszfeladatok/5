@@ -1,0 +1,3 @@
+<h1>5. Megbízhatóság</h1>
+A rendszer rengetegszer lett tesztelve, tapasztalatink futás idő közben nem léphet fel probléma. Szélsőséges eseteknél, mint például áramszünet vagy DDOS támadás esetén 2-3 órán belül javítani fogja a karbantartó.<br>
+Terheléses támadás esetén korlátozott mód lép fel, ami előtt egy DDOS check lefut az weboldal megnyitása előtt. Vendégként lehet ilyenkor böngészni az állásajánlatok között, amint visszaáll teljes használhatóságba lehet már jelentkezni munkákra.
