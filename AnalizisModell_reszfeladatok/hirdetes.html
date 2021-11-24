@@ -1,0 +1,130 @@
+<h3>Hirdetés</h3>
+<ul>
+    <li><p><b>Felelőssége, feladata: </b>Egy álláshirdetés reprezentálása</p></li>
+    <li><p><b>Együttműködők: </b>álláskereső, álláshirdető</p></li>
+    <li><p><b>Attribútumok:</b></p></li>
+
+    <table border="1" cellpadding="0" cellspacing="0">
+        <tbody>
+            <tr valign="top">
+                <td width="70">
+                    <p><b>Név</b></p>
+                </td>
+                <td width="120">
+                    <p><b>Típus</b></p>
+                </td>
+                <td width="384">
+                    <p><b>Leírás</b></p>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="70">
+                    <p>jobAdvert</p>
+                </td>
+                <td width="120">
+                    <p>int</p>
+                </td>
+                <td width="384">
+                    <p></p>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="70">
+                    <p>adID</p>
+                </td>
+                <td width="120">
+                    <p>int</p>
+                </td>
+                <td width="384">
+                    <p>Hirdetés azonosítója</p>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="70">
+                    <p>adName</p>
+                </td>
+                <td width="120">
+                    <p>string</p>
+                </td>
+                <td width="384">
+                    <p>A hirdetés címe</p>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="70">
+                    <p>text</p>
+                </td>
+                <td width="120">
+                    <p>string</p>
+                </td>
+                <td width="384">
+                    <p>A hirdetés leírása, követelmények, stb.</p>
+                </td>
+            </tr>
+            
+            <tr valign="top">
+                <td width="70">
+                    <p>premium_ad</p>
+                </td>
+                <td width="120">
+                    <p>boolean</p>
+                </td>
+                <td width="384">
+                    <p>Fizetett, előresorolt hirdetés-e</p>
+                </td>
+            </tr>
+            
+        </tbody>    
+    </table>
+
+    <li><p><b>Operációk:</b></p></li>
+
+    <table border="1" cellpadding="0" cellspacing="0">
+        <tbody>
+            <tr valign="top">
+                <td width="67">
+                    <p><b>Név</b></p>
+                </td>
+                <td width="120">
+                    <p><b>Argumentumok</b></p>
+                </td>
+                <td width="384">
+                    <p><b>Működése, feladata</b></p>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="67">
+                    <p>addRequirements()</p>
+                </td>
+                <td width="120">
+                    <p>string[] kovetelmenyek</p>
+                </td>
+                <td width="384">
+                    <p>Követelmények hozzáadása a hirdetéshez</p>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="67">
+                    <p>addJob()</p>
+                </td>
+                <td width="120">
+                    <p>string adName, string text</p>
+                </td>
+                <td width="384">
+                    <p>Hirdetés létrehozása</p>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="67">
+                    <p>applyJob()</p>
+                </td>
+                <td width="120">
+                    <p>int jobSeekerID</p>
+                </td>
+                <td width="384">
+                    <p>Álláskereső jelentkezés, értesítés küldése a hirdetőnek</p>
+                </td>
+            </tr>
+        </tbody>    
+    </table>
+</ul>
