@@ -1,0 +1,14 @@
+6hoz
+Instant válaszidő
+Áteresztőképesség: felhasználónként ~5/mp = ~50000/mp
+feldolgozandó tranzakciók száma ^ kezelt adatbázis max mérete kezdetben 1 Terra elég oszt majd bővítünk egyidejűleg kb 10000 felhasználóra számolunk az elején
+korlátozott használhatóság idején fele ennyi
+
+7.hez
+C# kódolási és elnevezési konvenciók betartása
+	Android 7.0 vagy újabb verzió
+	~20MB tárhely
+	stabil internetkapcsolat
+
+8.
+fejlesztőkörnyezetek: asp.net, visual studio, Angular
