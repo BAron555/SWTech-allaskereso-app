@@ -1,0 +1,67 @@
+	3.1.2 Attribútumok azonosítása
+Moderator
+	-MID: moderátor felhasználóknak egyedi kulcs ID-t tárol
+
+Account
+	-username: felhasználók nevét tárolja
+	-password: felhasználók belépéshez jelszavát tárolja (pár kikötéssel majd)
+	-email: regisztráláskor és kapcsolattartás céljából a felhasználók emailjét tárolja
+
+Job Seeker
+	-JobSID: a munka hirdetések egyedi azonosítója
+	-birth date: az álláskereső születési dátuma
+	-name: álláskereső neve
+	-gender: álláskereső neme
+	-telephone: álláskereső telefonszáma
+
+Report
+	-R_id: ha feljelentés történik, annak 1 külön ID
+	-jobSID: a feljelentéshez kapcsolódó munkahirdetés
+	-targetID: feljelentés melyik felhasználó ellen irányul
+	-reason: feljelentés indoklása
+
+Job Advertiser
+	-jobAID: a hirdető IDje
+	-subscription: van-e az adott felhasználónak prémium előfizetése, vagy sem
+	-compName: az állást hirdető cég neve
+	-compDetails: az állást hirdető cég adatai, leírása
+
+Resume
+	-cVID: a feltöltött önéletrajz IDje
+	-almaMater: tanulmányok
+	-profession: foglalkozás
+	-experience: tapasztalat
+	-personalData: személyes adatok
+
+Advertisement
+	-jobAdvert: hirdetést létrehozó felhasználó (cég) IDje
+	-adID: hirdetés kulcs azonosítója
+	-adName: hirdetés neve
+	-text: hirdetés szövege
+	-premium_ad: a hirdetés prémiumos-e vagy sem
+
+Application review
+	-ad: a hirdetés amire jelentkeztek
+	-resume: a jelentkezettek önéletrajza
+	-result: a felvételi eljárás sikeressége
+
+Chat
+	-jobAID: felhasználó/cég IDje
+	-JobSID: álláskereső IDje
+	-CompName: a felhasználó/cég aki csetet kezdeményezett
+	-targetName: amelyik felhasználóval kezdeményezte
+	-text: cset szöveg
+
+
+	3.3. Funkcionális modell
+
+
+
+
+Website
+	- ez magába sok mindent nem csinál, csak úgymond a "váza" az egésznek.
+	Illetve értesítéseket küld telefonon / böngészőbe és ezeket jeleníti meg, illetve mutatja a felhasználók közül, ki online éppen.
+
+Account
+	- Felhasználói fiók, az álláskeresők és hirdetők ennek 2 fajtája, ami további attribútumokkal és metódusokkal bővül.
+	Minden felhasználónak van alapból felhasználóneve, jelszava, email címe, és képes bejelentkezni, jelszavat változtatni, illetve kijelentkezni
