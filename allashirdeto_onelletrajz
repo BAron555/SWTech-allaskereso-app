@@ -1,0 +1,125 @@
+<p><strong>&Aacute;ll&aacute;sh&iacute;rdető</strong></p>
+<p><br />felelőss&eacute;ge, feladata: Egy &aacute;ll&aacute;sh&iacute;rdető reprezent&aacute;l&aacute;sa. Az Account oszt&aacute;ly lesz&aacute;rmazottja.</p>
+<p>Egy&uuml;ttműk&ouml;dők: Account, Hirdet&eacute;s</p>
+<p>Attrib&uacute;tumok:</p>
+<table style="border-collapse: collapse; width: 100.142%; height: 89px;" border="1">
+<tbody>
+<tr style="height: 17px;">
+<td style="width: 33.3333%; height: 17px;">N&eacute;v</td>
+<td style="width: 33.3333%; height: 17px;">Tipus</td>
+<td style="width: 33.4753%; height: 17px;">Le&iacute;r&aacute;s</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">jobAID</td>
+<td style="width: 33.3333%; height: 18px;">int</td>
+<td style="width: 33.4753%; height: 18px;">a hirdető ID-je</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">subscription</td>
+<td style="width: 33.3333%; height: 18px;">boolean</td>
+<td style="width: 33.4753%; height: 18px;">van-e az adott felhaszn&aacute;l&oacute;nak pr&eacute;mium előfizet&eacute;se, vagy sem</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">compName</td>
+<td style="width: 33.3333%; height: 18px;">string</td>
+<td style="width: 33.4753%; height: 18px;">az &aacute;ll&aacute;st hirdető c&eacute;g neve</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">compDetails</td>
+<td style="width: 33.3333%; height: 18px;">string</td>
+<td style="width: 33.4753%; height: 18px;">az &aacute;ll&aacute;st hirdető c&eacute;g adatai, le&iacute;r&aacute;sa</td>
+</tr>
+</tbody>
+</table>
+<p>Oper&aacute;ci&oacute;k:</p>
+<table style="border-collapse: collapse; width: 100%; height: 72px;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">N&eacute;v</td>
+<td style="width: 33.3333%; height: 18px;">Argumentumok</td>
+<td style="width: 33.3333%; height: 18px;">Műk&ouml;d&eacute;se, feladata</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">addJob()</td>
+<td style="width: 33.3333%;" width="120">
+<p>string adName, string text</p>
+</td>
+<td style="width: 33.3333%; height: 18px;">Hirdet&eacute;s l&eacute;trehoz&aacute;sa</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">updateJob()</td>
+<td style="width: 33.3333%; height: 18px;">&nbsp;</td>
+<td style="width: 33.3333%; height: 18px;">Hirdet&eacute;s friss&iacute;t&eacute;se</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">addChat()</td>
+<td style="width: 33.3333%; height: 18px;">&nbsp;</td>
+<td style="width: 33.3333%; height: 18px;">
+<p>&Uacute;j chat(ablak) l&eacute;trehoz&aacute;sa</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>&Ouml;n&eacute;letrajz</strong></p>
+<p>felelőss&eacute;ge, feladata: Egy &aacute;ll&aacute;skereső elő&eacute;let&eacute;nek reprezent&aacute;l&aacute;sa.</p>
+<p>Egy&uuml;ttműk&ouml;dők: Hirdet&eacute;s, &Aacute;ll&aacute;skereső</p>
+<p>Attrib&uacute;tumok:</p>
+<table style="border-collapse: collapse; width: 100%; height: 108px;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">N&eacute;v</td>
+<td style="width: 33.3333%; height: 18px;">T&iacute;pus</td>
+<td style="width: 33.3333%; height: 18px;">Le&iacute;r&aacute;s</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">cVID</td>
+<td style="width: 33.3333%; height: 18px;">int</td>
+<td style="width: 33.3333%; height: 18px;">a felt&ouml;lt&ouml;tt &ouml;n&eacute;letrajz ID-je</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">almaMater</td>
+<td style="width: 33.3333%; height: 18px;">string</td>
+<td style="width: 33.3333%; height: 18px;">tanulm&aacute;nyok</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">profession</td>
+<td style="width: 33.3333%; height: 18px;">string</td>
+<td style="width: 33.3333%; height: 18px;">foglalkoz&aacute;s</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">experience</td>
+<td style="width: 33.3333%; height: 18px;">string</td>
+<td style="width: 33.3333%; height: 18px;">tapasztalat</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">personalData</td>
+<td style="width: 33.3333%; height: 18px;">string</td>
+<td style="width: 33.3333%; height: 18px;">szem&eacute;lyes adatok</td>
+</tr>
+</tbody>
+</table>
+<p>Oper&aacute;ci&oacute;k:</p>
+<table style="border-collapse: collapse; width: 100%; height: 54px;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">N&eacute;v</td>
+<td style="width: 33.3333%; height: 18px;">Argumentumok</td>
+<td style="width: 33.3333%; height: 18px;">Műk&ouml;d&eacute;se, feladata</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">updateCV()</td>
+<td style="width: 33.3333%; height: 18px;">int cVID, string almaMater, string profession, string experience, string personalData</td>
+<td style="width: 33.3333%; height: 18px;">&Ouml;n&eacute;letrajz friss&iacute;t&eacute;se</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">deleteCV()</td>
+<td style="width: 33.3333%; height: 18px;">int cvID</td>
+<td style="width: 33.3333%; height: 18px;">&Ouml;n&eacute;letrajz t&ouml;rl&eacute;se</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>3.1.3 b&aacute;zisoszt&aacute;lyok keres&eacute;se</strong></p>
+<p>Nincs olyan oszt&aacute;ly, amely b&aacute;zisoszt&aacute;lynak kiemelhető lenne.</p>
+<p>&nbsp;</p>
